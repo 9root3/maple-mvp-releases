@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "revision": 2026111401,
+  "publishedAt": "2026-11-14T00:00:00Z",
+  "items": [
+    {
+      "id": "face",
+      "name": "프리미엄 성형 쿠폰",
+      "variants": [
+        [
+          1,
+          3500
+        ]
+      ],
+      "verifiedAt": "2026-11-06",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "core",
+      "noticeTerms": [
+        "프리미엄",
+        "성형"
+      ],
+      "noticeId": 649
+    },
+    {
+      "id": "hair",
+      "name": "프리미엄 헤어 쿠폰",
+      "variants": [
+        [
+          1,
+          5500
+        ]
+      ],
+      "verifiedAt": "2026-11-06",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "core",
+      "noticeTerms": [
+        "프리미엄",
+        "헤어"
+      ],
+      "noticeId": 649
+    },
+    {
+      "id": "apple",
+      "name": "플래티넘 애플",
+      "variants": [
+        [
+          1,
+          3500
+        ],
+        [
+          33,
+          99000
+        ]
+      ],
+      "verifiedAt": "2026-11-06",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "core",
+      "noticeTerms": [
+        "플래티넘 애플"
+      ],
+      "noticeId": 512
+    },
+    {
+      "id": "luna",
+      "name": "루나 크리스탈",
+      "variants": [
+        [
+          1,
+          3900
+        ]
+      ],
+      "verifiedAt": "2026-11-06",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "normal",
+      "noticeTerms": [
+        "루나 크리스탈"
+      ],
+      "noticeId": 646
+    },
+    {
+      "id": "wonder",
+      "name": "위습의 원더베리",
+      "variants": [
+        [
+          1,
+          5400
+        ],
+        [
+          11,
+          54000
+        ]
+      ],
+      "verifiedAt": "2026-11-06",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "normal",
+      "noticeTerms": [
+        "위습의 원더베리"
+      ],
+      "noticeId": 646
+    },
+    {
+      "id": "boutique",
+      "name": "부티크 기프트",
+      "variants": [
+        [
+          1,
+          3300
+        ],
+        [
+          10,
+          33000
+        ]
+      ],
+      "verifiedAt": "2026-11-06",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "seasonal",
+      "noticeTerms": [
+        "부티크 기프트"
+      ],
+      "noticeId": 651,
+      "from": "2026-10-22",
+      "until": "2026-11-18"
+    },
+    {
+      "id": "royal",
+      "name": "메이플 로얄 스타일",
+      "variants": [
+        [
+          1,
+          2200
+        ],
+        [
+          10,
+          22000
+        ],
+        [
+          20,
+          44000
+        ],
+        [
+          45,
+          99000
+        ]
+      ],
+      "verifiedAt": "2026-11-06",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "normal",
+      "noticeTerms": [
+        "로얄스타일"
+      ],
+      "noticeId": 650
+    },
+    {
+      "id": "scissors",
+      "name": "플래티넘 카르마의 가위",
+      "variants": [
+        [
+          1,
+          5900
+        ]
+      ],
+      "verifiedAt": "2026-11-06",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "core",
+      "noticeTerms": []
+    },
+    {
+      "id": "circ",
+      "name": "심연의 서큘레이터",
+      "variants": [
+        [
+          1,
+          4900
+        ]
+      ],
+      "verifiedAt": "2026-11-06",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "core",
+      "noticeTerms": []
+    },
+    {
+      "id": "prism",
+      "name": "컬러링 프리즘 프로",
+      "variants": [
+        [
+          1,
+          25000
+        ]
+      ],
+      "verifiedAt": "2026-11-06",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "normal",
+      "noticeTerms": [
+        "컬러링 프리즘 프로"
+      ],
+      "noticeId": 637
+    },
+    {
+      "id": "masterpiece",
+      "name": "프리미엄 마스터피스",
+      "variants": [
+        [
+          1,
+          1900
+        ]
+      ],
+      "verifiedAt": "2026-11-06",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "normal",
+      "noticeTerms": [
+        "마스터피스"
+      ],
+      "noticeId": 650
+    }
+  ]
+}
