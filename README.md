@@ -2,19 +2,22 @@
   <img src="docs/assets/cover.svg" alt="딸깍엠작 — 엠작하기 전, 회수율부터 비교하세요." width="100%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/9root3/maple-mvp-releases/releases/download/v1.0.3/Maple-MVP-1.0.3-win-x64.exe">
-    <img src="docs/assets/download-windows.svg?v=1.0.3" alt="Windows용 다운로드 v1.0.3" width="330" height="68">
-  </a>
-</p>
+<table align="center" role="presentation">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/9root3/maple-mvp-releases/releases/download/v1.0.3/Maple-MVP-1.0.3-win-x64.exe">
+        <img src="docs/assets/download-windows.svg?v=1.0.3" alt="Windows용 다운로드 v1.0.3" width="330" height="68">
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="#사용법"><img src="docs/assets/nav-guide.svg" alt="사용법" width="158" height="28"></a><br>
+      <a href="docs/FAQ.md"><img src="docs/assets/nav-faq.svg" alt="자주 묻는 질문" width="158" height="28"></a><br>
+      <a href="https://github.com/9root3/maple-mvp-releases/releases"><img src="docs/assets/nav-releases.svg" alt="변경 내역" width="158" height="28"></a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="#사용법">사용법</a> ·
-  <a href="docs/FAQ.md">자주 묻는 질문</a> ·
-  <a href="https://github.com/9root3/maple-mvp-releases/releases">변경 내역</a>
-</p>
-
-![딸깍엠작 대시보드 — 예시 캐릭터와 예시 시세로 촬영한 화면](docs/images/dashboard.png)
+![딸깍엠작 대시보드 — 예시 캐릭터와 예시 시세로 촬영한 화면](docs/images/dashboard-frame.svg)
 
 <sub>화면의 캐릭터·가격·검색 잔여 횟수는 사용법 설명을 위한 예시입니다.</sub>
 
@@ -32,7 +35,7 @@
 연결되면 경매장 창이 숨겨지고 대시보드로 돌아옵니다.
 자동으로 연결되지 않으면 **연결 확인**을 눌러 주세요.
 
-![첫 실행 화면의 로그인·연결 확인 버튼](docs/images/connection.png)
+![첫 실행 화면의 로그인·연결 확인 버튼](docs/images/connection-frame.svg)
 
 ### 2. 내 조건 입력하기
 
@@ -44,7 +47,7 @@
 | 메소 마켓 기준 매수가 | 1억 메소를 사는 데 드는 메포. 시세 조회 때 메차트 값으로 갱신됩니다. |
 | 메포 선물식 | 1만 메포를 선물할 때 받는 현금 가격 |
 
-<img src="docs/images/settings.png" alt="할인율·MVP 수수료·메소 시세를 입력한 예시" width="380">
+<img src="docs/images/settings-frame.svg" alt="할인율·MVP 수수료·메소 시세를 입력한 예시" width="428">
 
 입력값을 바꾸면 회수율은 바로 다시 계산됩니다.
 
@@ -56,7 +59,7 @@
 
 크레딧샵 품목도 체크 여부와 관계없이 함께 조회·저장합니다.
 **크레딧 회수 반영**을 켜면 크레딧당 회수액이 가장 높은 품목을 골라 회수율에 더합니다.
-<img src="docs/images/credit.png" alt="크레딧 회수 품목과 비교 목록 일부를 펼친 예시" width="380">
+<img src="docs/images/credit-frame.svg" alt="크레딧 회수 품목과 비교 목록 일부를 펼친 예시" width="428">
 
 전체 시세 조회는 정상 완료 기준 **32회**를 사용합니다. 실패 후 재시도에는 추가 횟수가 들 수 있습니다.
 입력값 변경·정렬·크레딧 체크에는 검색 횟수를 사용하지 않습니다.
