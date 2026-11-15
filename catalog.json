@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 2026111401,
-  "publishedAt": "2026-11-14T00:00:00Z",
+  "revision": 2026111501,
+  "publishedAt": "2026-11-15T11:40:00Z",
   "items": [
     {
       "id": "face",
@@ -233,6 +233,32 @@
         "마스터피스"
       ],
       "noticeId": 650
+    },
+    {
+      "id": "custom-hair",
+      "name": "커스텀 믹스염색 쿠폰",
+      "variants": [[1, 48000]],
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "normal",
+      "noticeTerms": ["커스텀", "믹스", "염색"],
+      "noticeId": 543,
+      "from": "2025-06-19"
+    },
+    {
+      "id": "custom-eye",
+      "name": "커스텀 믹스 컬러렌즈 쿠폰",
+      "variants": [[1, 24000]],
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "normal",
+      "noticeTerms": ["커스텀", "믹스", "컬러렌즈"],
+      "noticeId": 543,
+      "from": "2025-06-19"
     }
   ]
 }
