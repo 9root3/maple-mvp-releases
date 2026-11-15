@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "revision": 2026111501,
+  "publishedAt": "2026-11-15T13:32:18.760Z",
+  "items": [
+    {
+      "id": "credit-prime",
+      "name": "프라임 큐브",
+      "creditCost": 10000,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true,
+      "until": "2026-11-18",
+      "subCategory": "CASH_ENCHANT_CUBE"
+    },
+    {
+      "id": "credit-prime-additional",
+      "name": "프라임 에디셔널 큐브",
+      "creditCost": 20000,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true,
+      "until": "2026-11-18",
+      "subCategory": "CASH_ENCHANT_CUBE"
+    },
+    {
+      "id": "credit-circ",
+      "name": "심연의 서큘레이터",
+      "creditCost": 4900,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-scissors",
+      "name": "플래티넘 카르마의 가위",
+      "creditCost": 5900,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-boutique",
+      "name": "부티크 기프트",
+      "creditCost": 3300,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true,
+      "until": "2026-11-18"
+    },
+    {
+      "id": "credit-wonder",
+      "name": "위습의 원더베리",
+      "creditCost": 5400,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-royal",
+      "name": "메이플 로얄 스타일",
+      "creditCost": 2100,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-hair",
+      "name": "프리미엄 헤어 쿠폰",
+      "creditCost": 5500,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-prism",
+      "name": "컬러링 프리즘 프로",
+      "creditCost": 25000,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-weapon-prism",
+      "name": "무기 이펙트 프리즘",
+      "creditCost": 15000,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-erda",
+      "name": "솔 에르다",
+      "creditCost": 9900,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-luna",
+      "name": "루나 크리스탈",
+      "creditCost": 3900,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-masterpiece",
+      "name": "프리미엄 마스터피스",
+      "creditCost": 1900,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-face",
+      "name": "프리미엄 성형 쿠폰",
+      "creditCost": 3500,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-balance-hair",
+      "name": "밸런스 믹스 염색 쿠폰",
+      "creditCost": 24000,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-custom-hair",
+      "name": "커스텀 믹스염색 쿠폰",
+      "creditCost": 48000,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-custom-eye",
+      "name": "커스텀 믹스 컬러렌즈 쿠폰",
+      "creditCost": 24000,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    },
+    {
+      "id": "credit-balance-eye",
+      "name": "밸런스 믹스 컬러렌즈 쿠폰",
+      "creditCost": 12000,
+      "verifiedAt": "2026-11-15",
+      "status": "verified",
+      "resaleBeforeOpening": true
+    }
+  ]
+}
