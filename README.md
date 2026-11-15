@@ -1,16 +1,7 @@
 <p align="center">
-  <img src="docs/assets/cover.svg" alt="딸깍엠작 — 엠작하기 전, 회수율부터 비교하세요." width="100%">
+  <img src="docs/assets/cover.svg?layout=3" alt="딸깍엠작 — 엠작하기 전, 회수율부터 비교하세요." width="100%" align="top"><br>
+  <a href="https://github.com/9root3/maple-mvp-releases/releases/download/v1.0.3/Maple-MVP-1.0.3-win-x64.exe"><img src="docs/assets/download-windows.svg?v=1.0.3&amp;layout=3" alt="Windows용 다운로드 v1.0.3" width="40%" align="top"></a><a href="#사용법"><img src="docs/assets/nav-guide.svg?layout=3" alt="사용법" width="20%" align="top"></a><a href="docs/FAQ.md"><img src="docs/assets/nav-faq.svg?layout=3" alt="자주 묻는 질문" width="20%" align="top"></a><a href="https://github.com/9root3/maple-mvp-releases/releases"><img src="docs/assets/nav-releases.svg?layout=3" alt="변경 내역" width="20%" align="top"></a>
 </p>
-
-<p align="left">
-  <a href="https://github.com/9root3/maple-mvp-releases/releases/download/v1.0.3/Maple-MVP-1.0.3-win-x64.exe">
-    <img src="docs/assets/download-windows.svg?v=1.0.3&amp;layout=2" alt="Windows용 다운로드 v1.0.3" width="350" height="104" align="left">
-  </a>
-  <a href="#사용법"><img src="docs/assets/nav-guide.svg" alt="사용법" width="158" height="28"></a><br>
-  <a href="docs/FAQ.md"><img src="docs/assets/nav-faq.svg" alt="자주 묻는 질문" width="158" height="28"></a><br>
-  <a href="https://github.com/9root3/maple-mvp-releases/releases"><img src="docs/assets/nav-releases.svg" alt="변경 내역" width="158" height="28"></a>
-</p>
-<br clear="all">
 
 ![딸깍엠작 대시보드 — 예시 캐릭터와 예시 시세로 촬영한 화면](docs/images/dashboard-frame.svg)
 
@@ -34,30 +25,31 @@
 
 ### 2. 내 조건 입력하기
 
-| 입력 항목 | 입력 예시 | 안내 |
-| :--- | :--- | :--- |
-| <img src="docs/assets/field-cash.svg" alt="메소 현금 시세" width="190" height="30"> | **1,400**<br><sub>원 / 1억 메소</sub> | 현재 거래하는 메소 현금 가격을 입력합니다. |
-| <img src="docs/assets/field-discount.svg" alt="캐시 충전 할인율" width="190" height="30"> | **7%** | 실제 충전 할인율입니다. 할인 없이 충전하면 <strong>0%</strong>로 둡니다. |
-| <img src="docs/assets/field-fee.svg" alt="MVP 수수료" width="190" height="30"> | **켬 3%** · **끔 5%** | 경매장 수수료 3%를 적용받으면 켭니다. |
-| <img src="docs/assets/field-market.svg" alt="메소마켓 기준 매수가" width="190" height="30"> | **2,134**<br><sub>메포 / 1억 메소</sub> | 시세 조회 때 [메차트](https://maplechart.com/mesomarket.html) 매수가로 갱신됩니다. |
-| <img src="docs/assets/field-gift.svg" alt="메포 선물식" width="190" height="30"> | **6,800**<br><sub>원 / 1만 메포 선물</sub> | 1만 메포를 선물할 때 받는 현금 가격입니다. |
-
-<img src="docs/images/settings-frame.svg" alt="할인율·MVP 수수료·메소 시세를 입력한 예시" width="428">
-
-입력값을 바꾸면 회수율은 바로 다시 계산됩니다.
+<div align="left">
+  <img src="docs/images/settings-frame.svg" alt="할인율·MVP 수수료·메소 시세를 입력한 예시" width="45%" align="left">
+  <br>
+  <p><strong>메소 현금 시세</strong><br>1억 메소당 현금 가격. 예: 1,400원.<br>
+  <strong>캐시 충전 할인율</strong><br>실제 충전 할인율. 예: 7%.<br>
+  <strong>MVP 수수료</strong><br>수수료 3%면 켜고, 5%면 끕니다.<br>
+  <strong>메소마켓 기준 매수가</strong><br>조회 시 <a href="https://maplechart.com/mesomarket.html">메차트</a> 매수가로 갱신됩니다.<br>
+  <strong>메포 선물식</strong><br>1만 메포 선물로 받는 현금 가격입니다.</p>
+  <br clear="all">
+</div>
 
 ### 3. 시세 조회하고 비교하기
 
-**시세 조회**를 누르면 본인 서버의 최저 호가와 최근 3일 체결 내역을 가져옵니다.
-품목명·현재 최저 호가·평균 판매가 제목을 누르면 정렬 방향이 바뀌고,
-아래 <strong>더보기 +</strong>를 누르면 나머지 품목도 볼 수 있습니다.
+<div align="left">
+  <img src="docs/images/credit-frame.svg" alt="크레딧 회수 품목과 비교 목록 일부를 펼친 예시" width="45%" align="left">
+  <br>
+  <p><strong>시세 조회</strong><br>본인 서버 호가·최근 3일 체결을 확인합니다.<br>
+  <strong>정렬·더보기</strong><br>열 제목으로 정렬하고, <strong>더보기 +</strong>로 펼칩니다.<br>
+  <strong>크레딧 회수 반영</strong><br>체크하면 선택된 품목의 회수액을 더합니다.<br>
+  <strong>검색 횟수</strong><br>전체 조회는 기본 32회이며 재시도는 추가 차감됩니다.</p>
+  <br clear="all">
+</div>
 
-크레딧샵 품목도 체크 여부와 관계없이 함께 조회·저장합니다.
-**크레딧 회수 반영**을 켜면 크레딧당 회수액이 가장 높은 품목을 골라 회수율에 더합니다.
-<img src="docs/images/credit-frame.svg" alt="크레딧 회수 품목과 비교 목록 일부를 펼친 예시" width="428">
-
-전체 시세 조회는 정상 완료 기준 **32회**를 사용합니다. 실패 후 재시도에는 추가 횟수가 들 수 있습니다.
-입력값 변경·정렬·크레딧 체크에는 검색 횟수를 사용하지 않습니다.
+크레딧 품목은 체크 여부와 관계없이 함께 조회합니다.
+입력값 변경·정렬·체크에는 검색 횟수를 사용하지 않습니다.
 
 조회 제한이나 화면 표시가 궁금하면 [자주 묻는 질문](docs/FAQ.md)을 참고해 주세요.
 
