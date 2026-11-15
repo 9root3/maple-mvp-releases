@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="docs/assets/cover.svg?layout=4" alt="딸깍엠작 — 엠작하기 전, 회수율부터 비교하세요." width="55%" align="top"><a href="https://github.com/9root3/maple-mvp-releases/releases/download/v1.1.0/Maple-MVP-1.1.0-win-x64.exe"><img src="docs/assets/download-windows.svg?v=1.1.0&amp;layout=5" alt="Windows용 다운로드 v1.1.0" width="45%" align="top"></a><br>
-  <img src="docs/assets/cover-bottom.svg?layout=4" alt="" width="55%" align="top"><a href="#사용법"><img src="docs/assets/nav-guide.svg?layout=4" alt="사용법" width="15%" align="top"></a><a href="docs/FAQ.md"><img src="docs/assets/nav-faq.svg?layout=4" alt="자주 묻는 질문" width="15%" align="top"></a><a href="https://github.com/9root3/maple-mvp-releases/releases"><img src="docs/assets/nav-releases.svg?layout=4" alt="변경 내역" width="15%" align="top"></a>
+  <img src="docs/assets/cover.svg?layout=5" alt="딸깍엠작 — 원클릭 엠작 회수율 계산기" width="55%" align="top"><a href="https://github.com/9root3/maple-mvp-releases/releases/download/v1.1.0/Maple-MVP-1.1.0-win-x64.exe"><img src="docs/assets/download-windows.svg?v=1.1.0&amp;layout=5" alt="Windows용 다운로드 v1.1.0" width="45%" align="top"></a><br>
+  <img src="docs/assets/cover-bottom.svg?layout=5" alt="" width="55%" align="top"><a href="#사용법"><img src="docs/assets/nav-guide.svg?layout=5" alt="사용법" width="15%" align="top"></a><a href="docs/FAQ.md"><img src="docs/assets/nav-faq.svg?layout=5" alt="자주 묻는 질문" width="15%" align="top"></a><a href="https://github.com/9root3/maple-mvp-releases/releases"><img src="docs/assets/nav-releases.svg?layout=5" alt="변경 내역" width="15%" align="top"></a>
 </p>
 
 ![딸깍엠작 대시보드 — 예시 캐릭터와 예시 시세로 촬영한 화면](docs/images/dashboard-frame.svg)
@@ -55,12 +55,17 @@
 
 ## 업데이트
 
-**앱을 켜면 새 버전 확인과 다운로드는 자동으로 진행됩니다. 설치는 다운로드가 끝난 뒤 앱을 종료할 때 진행됩니다.**
+<div align="left">
+  <img src="docs/images/startup-frame.svg" alt="앱 시작 시 최신 버전을 확인하는 화면" width="45%" align="left">
+  <br>
+  <p><strong>시작할 때 자동 업데이트</strong><br>최신 버전이면 바로 대시보드가 열립니다.<br>새 버전이 있으면 다운로드·설치 후 자동으로 실행됩니다.<br><br>
+  확인이나 다운로드에 실패하면 <strong>다시 시도</strong>를 눌러 주세요.</p>
+  <br clear="all">
+</div>
 
-- **지금 적용:** ‘준비 완료’가 뜨면 **종료하고 업데이트**를 누르세요. 앱을 닫고 설치한 뒤 다시 실행합니다.
-- **나중에 적용:** 계속 사용하다가 앱을 닫으면 자동으로 설치됩니다. 다음에 켤 때 새 버전으로 실행됩니다.
+1.1.0부터 적용됩니다. 이전 버전은 먼저 **업데이트 확인 → 종료하고 업데이트**로 한 번 업데이트해 주세요.
 
-**업데이트 확인**은 앱을 켜 둔 동안 새 버전이 나왔는지 다시 확인할 때 쓰는 버튼입니다.
+앱을 사용 중일 때 나온 새 버전도 하단의 **업데이트 확인 → 종료하고 업데이트**로 바로 적용할 수 있습니다.
 
 표시된 가격에 실제로 판매된다는 보장은 없습니다. 체결 내역도 함께 확인해 주세요.
 
