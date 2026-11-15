@@ -4,12 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/9root3/maple-mvp-releases/releases/download/v1.0.3/Maple-MVP-1.0.3-win-x64.exe">
-    <img src="docs/assets/download-windows.svg" alt="Windows용 다운로드 — 최신 설치 파일 받기" width="330" height="68">
+    <img src="docs/assets/download-windows.svg?v=1.0.3" alt="Windows용 다운로드 v1.0.3" width="330" height="68">
   </a>
-</p>
-
-<p align="center">
-  Windows 64비트 · 정식 버전 <strong>1.0.3</strong>
 </p>
 
 <p align="center">
