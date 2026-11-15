@@ -2,20 +2,15 @@
   <img src="docs/assets/cover.svg" alt="딸깍엠작 — 엠작하기 전, 회수율부터 비교하세요." width="100%">
 </p>
 
-<table align="center" role="presentation">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/9root3/maple-mvp-releases/releases/download/v1.0.3/Maple-MVP-1.0.3-win-x64.exe">
-        <img src="docs/assets/download-windows.svg?v=1.0.3" alt="Windows용 다운로드 v1.0.3" width="330" height="68">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="#사용법"><img src="docs/assets/nav-guide.svg" alt="사용법" width="158" height="28"></a><br>
-      <a href="docs/FAQ.md"><img src="docs/assets/nav-faq.svg" alt="자주 묻는 질문" width="158" height="28"></a><br>
-      <a href="https://github.com/9root3/maple-mvp-releases/releases"><img src="docs/assets/nav-releases.svg" alt="변경 내역" width="158" height="28"></a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://github.com/9root3/maple-mvp-releases/releases/download/v1.0.3/Maple-MVP-1.0.3-win-x64.exe">
+    <img src="docs/assets/download-windows.svg?v=1.0.3&amp;layout=2" alt="Windows용 다운로드 v1.0.3" width="350" height="104" align="left">
+  </a>
+  <a href="#사용법"><img src="docs/assets/nav-guide.svg" alt="사용법" width="158" height="28"></a><br>
+  <a href="docs/FAQ.md"><img src="docs/assets/nav-faq.svg" alt="자주 묻는 질문" width="158" height="28"></a><br>
+  <a href="https://github.com/9root3/maple-mvp-releases/releases"><img src="docs/assets/nav-releases.svg" alt="변경 내역" width="158" height="28"></a>
+</p>
+<br clear="all">
 
 ![딸깍엠작 대시보드 — 예시 캐릭터와 예시 시세로 촬영한 화면](docs/images/dashboard-frame.svg)
 
@@ -39,13 +34,13 @@
 
 ### 2. 내 조건 입력하기
 
-| 입력 | 넣을 값 |
-| --- | --- |
-| 메소 현금 시세 | 1억 메소당 현금 가격 |
-| 캐시 충전 할인율 | 실제로 할인받는 비율. 할인 없이 충전하면 0% |
-| MVP | 경매장 수수료 3%를 적용받으면 켜고, 일반 5%면 끕니다. |
-| 메소 마켓 기준 매수가 | 1억 메소를 사는 데 드는 메포. 시세 조회 때 메차트 값으로 갱신됩니다. |
-| 메포 선물식 | 1만 메포를 선물할 때 받는 현금 가격 |
+| 입력 항목 | 입력 예시 | 안내 |
+| :--- | :--- | :--- |
+| <img src="docs/assets/field-cash.svg" alt="메소 현금 시세" width="190" height="30"> | **1,400**<br><sub>원 / 1억 메소</sub> | 현재 거래하는 메소 현금 가격을 입력합니다. |
+| <img src="docs/assets/field-discount.svg" alt="캐시 충전 할인율" width="190" height="30"> | **7%** | 실제 충전 할인율입니다. 할인 없이 충전하면 <strong>0%</strong>로 둡니다. |
+| <img src="docs/assets/field-fee.svg" alt="MVP 수수료" width="190" height="30"> | **켬 3%** · **끔 5%** | 경매장 수수료 3%를 적용받으면 켭니다. |
+| <img src="docs/assets/field-market.svg" alt="메소마켓 기준 매수가" width="190" height="30"> | **2,134**<br><sub>메포 / 1억 메소</sub> | 시세 조회 때 [메차트](https://maplechart.com/mesomarket.html) 매수가로 갱신됩니다. |
+| <img src="docs/assets/field-gift.svg" alt="메포 선물식" width="190" height="30"> | **6,800**<br><sub>원 / 1만 메포 선물</sub> | 1만 메포를 선물할 때 받는 현금 가격입니다. |
 
 <img src="docs/images/settings-frame.svg" alt="할인율·MVP 수수료·메소 시세를 입력한 예시" width="428">
 
@@ -68,9 +63,12 @@
 
 ## 업데이트
 
-새 버전이 있으면 앱에서 내려받습니다. **종료하고 업데이트**로 적용할 수 있고,
-직접 확인하려면 앱 아래의 **업데이트 확인**을 누르면 됩니다.
-품목 목록은 앱에서 자동으로 갱신합니다.
+**앱을 켜면 새 버전 확인과 다운로드는 자동으로 진행됩니다. 설치는 다운로드가 끝난 뒤 앱을 종료할 때 진행됩니다.**
+
+- **지금 적용:** ‘준비 완료’가 뜨면 **종료하고 업데이트**를 누르세요. 앱을 닫고 설치한 뒤 다시 실행합니다.
+- **나중에 적용:** 계속 사용하다가 앱을 닫으면 자동으로 설치됩니다. 다음에 켤 때 새 버전으로 실행됩니다.
+
+**업데이트 확인**은 앱을 켜 둔 동안 새 버전이 나왔는지 다시 확인할 때 쓰는 버튼입니다.
 
 표시된 가격에 실제로 판매된다는 보장은 없습니다. 체결 내역도 함께 확인해 주세요.
 
