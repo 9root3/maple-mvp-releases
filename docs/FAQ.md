@@ -2,11 +2,6 @@
 
 [처음으로](../README.md) · [최신 버전](https://github.com/9root3/maple-mvp-releases/releases/latest)
 
-## Git이나 Node.js도 설치해야 하나요?
-
-필요 없습니다. Windows 설치 파일 하나만 받으면 됩니다.
-GitHub 계정이나 별도 브라우저 확장도 필요 없습니다.
-
 ## 로그인은 어디서 하나요?
 
 앱 오른쪽 위의 **로그인**을 누르면 메이플 경매장 창이 열립니다.

@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  Windows 64비트 · 정식 버전 <strong>1.0.3</strong><br>
-  Git이나 Node.js를 따로 설치할 필요 없습니다.
+  Windows 64비트 · 정식 버전 <strong>1.0.3</strong>
 </p>
 
 <p align="center">
@@ -42,9 +41,6 @@
 자동으로 연결되지 않으면 **연결 확인**을 눌러 주세요.
 
 ![첫 실행 화면의 로그인·연결 확인 버튼](docs/images/connection.png)
-
-앱 안에서 한 번 로그인해야 합니다. 평소 쓰는 브라우저의 로그인 상태와는 별개입니다.
-GitHub 로그인이나 별도 확장 프로그램은 필요 없습니다.
 
 ### 2. 내 조건 입력하기
 
