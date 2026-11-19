@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/cover.svg?layout=5" alt="딸깍엠작 — 원클릭 엠작 회수율 계산기" width="55%" align="top"><a href="https://github.com/9root3/maple-mvp-releases/releases/download/v1.1.0/Maple-MVP-1.1.0-win-x64.exe"><img src="docs/assets/download-windows.svg?v=1.1.0&amp;layout=5" alt="Windows용 다운로드 v1.1.0" width="45%" align="top"></a><br>
+  <img src="docs/assets/cover.svg?layout=5" alt="딸깍엠작 — 원클릭 엠작 회수율 계산기" width="55%" align="top"><a href="https://github.com/9root3/maple-mvp-releases/releases/download/v1.1.1/Maple-MVP-1.1.1-win-x64.exe"><img src="docs/assets/download-windows.svg?v=1.1.1&amp;layout=5" alt="Windows용 다운로드 v1.1.1" width="45%" align="top"></a><br>
   <img src="docs/assets/cover-bottom.svg?layout=5" alt="" width="55%" align="top"><a href="#사용법"><img src="docs/assets/nav-guide.svg?layout=5" alt="사용법" width="15%" align="top"></a><a href="docs/FAQ.md"><img src="docs/assets/nav-faq.svg?layout=5" alt="자주 묻는 질문" width="15%" align="top"></a><a href="https://github.com/9root3/maple-mvp-releases/releases"><img src="docs/assets/nav-releases.svg?layout=5" alt="변경 내역" width="15%" align="top"></a>
 </p>
 
