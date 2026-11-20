@@ -221,6 +221,32 @@
       "width": 35,
       "height": 34,
       "sha256": "6622e596ad887e4bed81c17cf5ed8937956ca873906df4917ca9216a7ef91462"
+    },
+    {
+      "key": "blue-archive-coordi-vol1",
+      "name": "블루 아카이브 코디 컬렉션 Vol.1",
+      "kind": "placeholder",
+      "iconName": "Wrapped Gift",
+      "credit": "Twemoji by Twitter, Inc. and other contributors",
+      "license": "CC-BY-4.0",
+      "sourceUrl": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f381.png",
+      "referenceUrl": "https://maplestory.nexon.com/News/CashShop/Sale/654",
+      "width": 72,
+      "height": 72,
+      "sha256": "1d8142ccc2d696dd6571ff277ec26b81d4231e1e00377aebaa5270a5f37075d5"
+    },
+    {
+      "key": "blue-archive-goods-vol1",
+      "name": "블루 아카이브 굿즈 컬렉션 Vol.1",
+      "kind": "placeholder",
+      "iconName": "Shopping Bags",
+      "credit": "Twemoji by Twitter, Inc. and other contributors",
+      "license": "CC-BY-4.0",
+      "sourceUrl": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f6cd.png",
+      "referenceUrl": "https://maplestory.nexon.com/News/CashShop/Sale/655",
+      "width": 72,
+      "height": 72,
+      "sha256": "52bc41d5c72c13660d70642f006f87b9e2552be2619bbe50b0f32665d1778cb1"
     }
   ]
 }

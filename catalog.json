@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 2026112001,
-  "publishedAt": "2026-11-20T04:39:40.877Z",
+  "revision": 2026112002,
+  "publishedAt": "2026-11-20T08:00:17.351Z",
   "items": [
     {
       "id": "face",
@@ -259,6 +259,60 @@
       "noticeTerms": ["커스텀", "믹스", "컬러렌즈"],
       "noticeId": 543,
       "from": "2025-06-19"
+    },
+    {
+      "id": "blue-archive-coordi-vol1",
+      "name": "블루 아카이브 코디 컬렉션 Vol.1",
+      "variants": [
+        [
+          1,
+          9900
+        ],
+        [
+          10,
+          99000
+        ]
+      ],
+      "verifiedAt": "2026-11-20",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "seasonal",
+      "noticeTerms": [
+        "블루 아카이브",
+        "코디 컬렉션",
+        "Vol.1"
+      ],
+      "noticeId": 654,
+      "from": "2026-11-19",
+      "until": "2027-01-20"
+    },
+    {
+      "id": "blue-archive-goods-vol1",
+      "name": "블루 아카이브 굿즈 컬렉션 Vol.1",
+      "variants": [
+        [
+          1,
+          3300
+        ],
+        [
+          10,
+          33000
+        ]
+      ],
+      "verifiedAt": "2026-11-20",
+      "status": "verified",
+      "cashPurchase": true,
+      "resaleBeforeOpening": true,
+      "tier": "seasonal",
+      "noticeTerms": [
+        "블루 아카이브",
+        "굿즈 컬렉션",
+        "Vol.1"
+      ],
+      "noticeId": 655,
+      "from": "2026-11-19",
+      "until": "2027-01-20"
     }
   ]
 }
