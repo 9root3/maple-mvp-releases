@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 2026111501,
-  "publishedAt": "2026-11-15T11:40:00Z",
+  "revision": 2026112001,
+  "publishedAt": "2026-11-20T04:39:40.877Z",
   "items": [
     {
       "id": "face",
@@ -21,7 +21,7 @@
         "프리미엄",
         "성형"
       ],
-      "noticeId": 649
+      "noticeId": 652
     },
     {
       "id": "hair",
@@ -41,7 +41,7 @@
         "프리미엄",
         "헤어"
       ],
-      "noticeId": 649
+      "noticeId": 652
     },
     {
       "id": "apple",
@@ -162,7 +162,7 @@
       "noticeTerms": [
         "로얄스타일"
       ],
-      "noticeId": 650
+      "noticeId": 653
     },
     {
       "id": "scissors",
@@ -232,7 +232,7 @@
       "noticeTerms": [
         "마스터피스"
       ],
-      "noticeId": 650
+      "noticeId": 653
     },
     {
       "id": "custom-hair",

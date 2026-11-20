@@ -44,7 +44,7 @@
   <p><strong>시세 조회</strong><br>본인 서버 호가·최근 3일 체결을 확인합니다.<br>
   <strong>정렬·더보기</strong><br>열 제목으로 정렬하고, <strong>더보기 +</strong>로 펼칩니다.<br>
   <strong>크레딧 회수 반영</strong><br>체크하면 선택된 품목의 회수액을 더합니다.<br>
-  <strong>검색 횟수</strong><br>전체 조회는 기본 32회이며 재시도는 추가 차감됩니다.</p>
+  <strong>검색 횟수</strong><br>전체 조회는 현재 목록 기준 28회이며, 품목 변경이나 재시도에 따라 달라집니다.</p>
   <br clear="all">
 </div>
 
